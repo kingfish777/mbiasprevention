@@ -5,7 +5,7 @@ MBias occurs when a covariate in an adjustment set is a collider (a variable on 
 
 M-bias search is difficult between interrelationships between covariates must be considered, not just the determinants of the exposure and the outcome. 
 
-Right now, there is hard-coding to search for "M"-bias for the relationship between depression as the exposure and Alzheimer's disease as the outcome. 
+Right now, there is hard-coding to search for "M"-bias for the relationship between depression as the exposure and Alzheimer's disease as the outcome but future versions will enable search for artibrary exposures and outcomes, and produce complete reports 
 
 ## Future work: 
 ### * Search for "M"-bias variables and confounders for the other eleven modifiable risk factors in the 2020 Lancet Commission report
